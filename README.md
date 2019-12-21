@@ -15,4 +15,4 @@ Some of the images are have erroneous 90 degree rotation. Output these timestamp
 
 For example:
 
-![Error Image Example](https://github.com/SONAMDAWANI/dataquality/blob/master/GitImages/rotation.mp4)
+![Error Image Example](https://github.com/SONAMDAWANI/dataquality/blob/master/GitImages/ErrorImageExample.gif)
