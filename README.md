@@ -1,6 +1,8 @@
 # dataquality
 GSU Data Mining Lab have Data Base of Sun's Image in heat map format. These images can be accessed using the web API:
+
 http://dmlab.cs.gsu.edu/dmlabapi/
+
 Database have images for around 9 years (starting from 2010 till date) with the interval of 6 minutes.
 
 example:
