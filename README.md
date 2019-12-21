@@ -17,3 +17,6 @@ Some of the images are have erroneous 90 degree rotation. Need to find such imag
 For example:
 
 ![Error Image Example](https://github.com/SONAMDAWANI/dataquality/blob/master/GitImages/ErrorImageExample.gif)
+
+
+As we can see some images have erroneous rotation due to which Sun seems to rotate from up to down. So need to find these images.
