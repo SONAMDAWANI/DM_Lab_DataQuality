@@ -20,3 +20,4 @@ For example:
 
 
 As we can see some images have erroneous rotation due to which Sun seems to rotate from up to down. So need to find these images.
+
