@@ -1,5 +1,7 @@
 # dataquality
-GSU Data Mining Lab have Data Base of Sun's Image in heat map format. These images can be accessed using the web API:
+GSU Data Mining Lab have large image parameter dataset extracted from the Solar Dynamics Observatory (SDO)
+mission’s AIA instrument, for the period of January 2011 through the current date, with the cadence
+of six minutes, for nine wavelength channels (Data Base of Sun's Image in heat map format). These images can be accessed using the web API:
 http://dmlab.cs.gsu.edu/dmlabapi/
 
 Database have images for around 9 years (starting from 2010 till date) with the interval of 6 minutes.
