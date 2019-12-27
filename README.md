@@ -19,6 +19,7 @@ Problem Statement:
 Some of the images are have erroneous 90 degree rotation. Need to find such images by giving their timestamps.
 
 For example:
+
 (Sorry! the video takes a bit to start)
 
 ![Error Image Example](https://github.com/SONAMDAWANI/dataquality/blob/master/GitImages/ErrorImageExample.gif)
