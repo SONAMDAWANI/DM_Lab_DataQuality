@@ -1,4 +1,4 @@
-# dataquality
+# Image Orientation Check
 GSU Data Mining Lab have large image parameter dataset extracted from the Solar Dynamics Observatory (SDO)
 mission’s AIA instrument, for the period of January 2011 through the current date, with the cadence
 of six minutes, for nine wavelength channels (Data Base of Sun's Image in heat map format). 
