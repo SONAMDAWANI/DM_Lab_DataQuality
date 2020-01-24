@@ -91,8 +91,8 @@ def QualityChecker(dt_start, dt_stop, aia_wave_array, param_id_array):
 
     endTime_fullOperation = time.time()
     Total_fullOperation = endTime_fullOperation - startTime_fullOperation
-    print('Full operation time: ' + str(round(Total_fullOperation, 2)))
-    print('Time taken by get_aia_imageparam_xml: ' + str(round(totalTime_get_aia_imageparam_xml, 2)) + ' (' +
+    print('Full operation time: ' + str(round(Total_fullOperation/60, 2))+' minutes')
+    print('Time taken by get_aia_imageparam_xml: ' + str(round(totalTime_get_aia_imageparam_xml/60, 2))+ ' minutes' + ' (' +
           str(round(((totalTime_get_aia_imageparam_xml / Total_fullOperation) * 100), 2)) + '%)')
     return DatesDF
 
